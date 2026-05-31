@@ -1,4 +1,4 @@
-# Rust Password Strength Checker
+# Rust Password Checker
 
 This is my first Rust project. I have been working through cybersecurity
 projects and building things in Python, and I wanted to start learning Rust
@@ -87,7 +87,7 @@ before moving on to anything more complex.
 ## Project Structure
 
 ```
-rust-password-checker/
+Rust-Password-Checker/
 |
 +-- src/
 |   +-- main.rs
